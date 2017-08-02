@@ -1,0 +1,7 @@
+<phpunit bootstrap="bootstrap.php">
+    <testsuites>
+        <testsuite name="Module Cv Makers">
+            <directory>Modules/CvMaker</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

@@ -1,0 +1,13 @@
+{
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "": "src/",
+            "Test\\": "tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^6.2",
+        "dompdf/dompdf": "dev-master"
+    }
+}
