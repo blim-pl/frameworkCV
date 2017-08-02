@@ -4,6 +4,8 @@ Quick application to generate CV in PDF form for personal use.
 Application uses very simple framework to resolve http requests. 
 I decided to use laravel in the nearest future so this app is abandoned now.
 
+* PHP >= 7.1
+
 ## Installation
 
 1. Use composer to install requirements 

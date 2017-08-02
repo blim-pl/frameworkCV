@@ -1,10 +1,6 @@
 <?php
-//require __DIR__ . '/../vendor/autoload.php';
-
 error_reporting(E_ALL ^ E_NOTICE);
 ini_set('display_errors', 1);
-
-//$config = include __DIR__ . '/../common/config.php';
 
 include __DIR__ . '/../common/autoloader.php';
 
